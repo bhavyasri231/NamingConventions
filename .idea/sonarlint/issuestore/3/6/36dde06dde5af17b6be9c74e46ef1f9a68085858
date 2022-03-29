@@ -1,0 +1,15 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÍõÏú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬çØü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ç´åþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Šï¹Ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬•½‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«¢Š øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µ¶Û¸ýÿÿÿÿ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+`
+java:S1128"ERemove this unused import 'java.util.concurrent.LinkedBlockingQueue'.(ŸØšüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
